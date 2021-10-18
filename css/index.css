@@ -1,0 +1,15 @@
+/*
+	Aquí va el diseño de todo lo especifico de la pantalla index.
+*/
+
+.titulo {
+	line-height: 200px;
+	font-size: 100px;
+}
+
+.titulo-div {
+	margin: auto;
+	width: 700px;
+	height: 200px;
+	background-color: #7F0000FF;
+}
