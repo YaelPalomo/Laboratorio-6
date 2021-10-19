@@ -1,0 +1,43 @@
+/*
+	Aquí va el diseño de todo lo especifico de la pantalla index.
+*/
+
+/*
+	Aquí va el diseño de todo lo especifico de la pantalla index.
+*/
+
+.titulo {
+	line-height: 200px;
+	font-size: 100px;
+}
+
+.titulo-div {
+	margin: auto;
+	width: 700px;
+	height: 200px;
+	background-color: #7F0000FF;
+}
+
+header {
+ background-color: #100000FF;
+ background-position: center;
+ height: 50px;
+ padding: 20px;
+ text-align: center;
+}
+
+.imagenes {
+	margin: auto;
+	display: inline-block;
+	width: 750px;
+	height: 250px;
+}
+
+.img {
+	max-width: 200px;
+}
+
+footer {
+	background-color: none;
+}
+
